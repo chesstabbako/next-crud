@@ -1,4 +1,4 @@
-"use client";
+'use client'
 
 import Tasks from "@/components/Tasks";
 import { useRouter } from "next/navigation";
